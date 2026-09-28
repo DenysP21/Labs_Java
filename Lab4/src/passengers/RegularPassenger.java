@@ -1,0 +1,7 @@
+package passengers;
+
+public class RegularPassenger extends Human {
+    public RegularPassenger(String name) {
+        super(name);
+    }
+}
